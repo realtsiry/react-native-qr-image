@@ -9,8 +9,7 @@
         "rawSpec": "^3.1.0",
         "spec": ">=3.1.0 <4.0.0",
         "type": "range"
-      },
-      "/Users/tsirysandratraina/Documents/frontend-labs/reactnative/ignite-projects/Salanoia/node_modules/uport-connect"
+      }
     ]
   ],
   "_from": "qr-image@>=3.1.0 <4.0.0",
