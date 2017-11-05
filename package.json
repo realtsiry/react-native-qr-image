@@ -36,6 +36,7 @@
     "url": "https://github.com/realtsiry/react-native-qr-image/issues"
   },
   "dependencies": {
+    "browserify-zlib": "^0.2.0",
     "stream-browserify": "^2.0.1"
   },
   "description": "QR Code generator (png, svg, pdf, eps)",
