@@ -56,7 +56,7 @@
   ],
   "license": "MIT",
   "main": "./lib/qr.js",
-  "name": "react-natove-qr-image",
+  "name": "react-native-qr-image",
   "optionalDependencies": {},
   "readmeFilename": "README.md",
   "repository": {
